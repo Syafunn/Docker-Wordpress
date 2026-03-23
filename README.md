@@ -1,10 +1,10 @@
 ## Screenshot
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Docker PS
-![Docker](screenshots/docker.png)
+![Docker](docker.png)
 
 ### Redis Test
-![Redis](screenshots/redis.png)
+![Redis](redis.png)
