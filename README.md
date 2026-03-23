@@ -195,6 +195,9 @@ Semua service berada dalam satu network Docker sehingga dapat saling terhubung m
 
 ## Screenshot
 
+### install wordpress
+tidak sempat saya screenshoot soalnya saat mengerjakan udah kelewat belum ke ss
+
 ### Dashboard
 <img width="2560" height="1504" alt="dashboard-wordpress" src="https://github.com/user-attachments/assets/58b4e238-2092-45c2-bb80-bb3ae6c178ec" />
 
